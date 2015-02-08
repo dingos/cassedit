@@ -1,0 +1,9 @@
+C:\Users\Owner\Desktop\code\LeagueSharp-master\Cassiopeia\bin\Release\Cassiopeia.exe.config
+C:\Users\Owner\Desktop\code\LeagueSharp-master\Cassiopeia\bin\Release\Cassiopeia.exe
+C:\Users\Owner\Desktop\code\LeagueSharp-master\Cassiopeia\bin\Release\Cassiopeia.pdb
+C:\Users\Owner\Desktop\code\LeagueSharp-master\Cassiopeia\bin\Release\LeagueSharp.Common.dll
+C:\Users\Owner\Desktop\code\LeagueSharp-master\Cassiopeia\bin\Release\LeagueSharp.dll
+C:\Users\Owner\Desktop\code\LeagueSharp-master\Cassiopeia\bin\Release\SharpDX.dll
+C:\Users\Owner\Desktop\code\LeagueSharp-master\Cassiopeia\obj\Debug\Cassiopeia.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\code\LeagueSharp-master\Cassiopeia\obj\Debug\Cassiopeia.exe
+C:\Users\Owner\Desktop\code\LeagueSharp-master\Cassiopeia\obj\Debug\Cassiopeia.pdb
