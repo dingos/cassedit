@@ -185,7 +185,7 @@ namespace Cassiopeia
                         Combo(true);
                         break;
                     case Orbwalking.OrbwalkingMode.LaneClear:
-                        LineClear();
+                        LaneClear();
                         JungleClear();
                         break;
                     case Orbwalking.OrbwalkingMode.LastHit:
@@ -330,7 +330,7 @@ namespace Cassiopeia
             }
         }
 
-        private static void LineClear()
+        private static void LaneClear()
         {
             List<Obj_AI_Base> mobs = MinionManager.GetMinions(player.ServerPosition, Q.Range, MinionTypes.All, MinionTeam.Enemy, MinionOrderTypes.MaxHealth).ToList();
 
@@ -357,7 +357,7 @@ namespace Cassiopeia
                 }
             }
 
-            if (W.IsReady() && menu.Item("lineclearW").GetValue<bool>() && castWafter2 < Game.Time)
+            if (W.IsReady() && menu.Item("laneclearW").GetValue<bool>() && castWafter2 < Game.Time)
             {
                 MinionManager.FarmLocation Qunpoisoned = Q.GetCircularFarmLocation(mobs.Where(x => !x.HasBuffOfType(BuffType.Poison)).ToList(), W.Width);
                 if (Qunpoisoned.MinionsHit > 0)

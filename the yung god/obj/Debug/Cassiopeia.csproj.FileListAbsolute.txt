@@ -7,3 +7,6 @@ C:\Users\Owner\Desktop\code\LeagueSharp-master\Cassiopeia\bin\Release\SharpDX.dl
 C:\Users\Owner\Desktop\code\LeagueSharp-master\Cassiopeia\obj\Debug\Cassiopeia.csprojResolveAssemblyReference.cache
 C:\Users\Owner\Desktop\code\LeagueSharp-master\Cassiopeia\obj\Debug\Cassiopeia.exe
 C:\Users\Owner\Desktop\code\LeagueSharp-master\Cassiopeia\obj\Debug\Cassiopeia.pdb
+C:\Users\Owner\Documents\GitHub\cassedit\the yung god\bin\Release\Cassiopeia.exe.config
+C:\Users\Owner\Documents\GitHub\cassedit\the yung god\obj\Debug\Cassiopeia.exe
+C:\Users\Owner\Documents\GitHub\cassedit\the yung god\obj\Debug\Cassiopeia.pdb
